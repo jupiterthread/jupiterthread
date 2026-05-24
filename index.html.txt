@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jupiter Thread</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body{
+      margin:0;
+      font-family:Arial;
+      background:#f5f5f5;
+      color:#222;
+    }
+
+    header{
+      background:#222;
+      color:white;
+      padding:20px;
+      text-align:center;
+    }
+
+    header h1{
+      color:orange;
+      margin:0;
+    }
+
+    .hero{
+      padding:60px 20px;
+      text-align:center;
+      background:white;
+    }
+
+    .hero h2{
+      font-size:40px;
+    }
+
+    .hero span{
+      color:orange;
+    }
+
+    .btn{
+      display:inline-block;
+      margin-top:20px;
+      padding:12px 25px;
+      background:orange;
+      color:white;
+      text-decoration:none;
+      border-radius:10px;
+    }
+
+    .section{
+      padding:50px 20px;
+      text-align:center;
+    }
+
+    footer{
+      background:#222;
+      color:white;
+      text-align:center;
+      padding:20px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>JUPITER THREAD</h1>
+  <p>Yarns & Thread Manufacturing</p>
+</header>
+
+<section class="hero">
+  <h2>Premium Quality <span>Threads & Yarns</span></h2>
+  <p>Trusted manufacturing solutions for textile industries.</p>
+
+  <a class="btn" href="tel:7045595051">
+    Call Now
+  </a>
+</section>
+
+<section class="section">
+  <h2>About Us</h2>
+  <p>
+    We manufacture high-quality yarns and threads with durability,
+    consistency, and customer satisfaction.
+  </p>
+</section>
+
+<section class="section">
+  <h2>Contact</h2>
+
+  <p>📞 7045595051</p>
+
+  <p>
+    GALA NO-3, RAM RAHIM UDYOG NAGAR,
+    BHANDUP WEST, MUMBAI - 400078
+  </p>
+</section>
+
+<footer>
+  © 2026 JUPITER THREAD
+</footer>
+
+</body>
+</html>
